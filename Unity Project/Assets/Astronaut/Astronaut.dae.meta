@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 1b719da8e95565f4c92de64a3bbe8daa
+timeCreated: 1461480512
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_finger_1a_left
+    100002: arm_finger_1a_right
+    100004: arm_finger_1b_left
+    100006: arm_finger_1b_right
+    100008: arm_finger_1c_left
+    100010: arm_finger_1c_right
+    100012: arm_finger_2a_left
+    100014: arm_finger_2a_right
+    100016: arm_finger_2b_left
+    100018: arm_finger_2b_right
+    100020: arm_finger_2c_left
+    100022: arm_finger_2c_right
+    100024: arm_wrist_left
+    100026: arm_wrist_right
+    100028: Armature
+    100030: //RootNode
+    100032: astronaut
+    100034: astronautvisir
+    100036: Head2
+    100038: Hips22
+    100040: LeftArm1
+    100042: LeftFoot2
+    100044: LeftForeArm1
+    100046: LeftHand1
+    100048: LeftHandProp1
+    100050: LeftLeg2
+    100052: LeftShoulder2
+    100054: LeftToeBase2
+    100056: LeftToeBase_END2
+    100058: LeftUpLeg2
+    100060: Neck2
+    100062: RightArm2
+    100064: RightFoot2
+    100066: RightForeArm1
+    100068: RightHand1
+    100070: RightHandProp1
+    100072: RightLeg2
+    100074: RightShoulder2
+    100076: RightToeBase2
+    100078: RightToeBase_END2
+    100080: RightUpLeg2
+    100082: RootAstro
+    100084: Spine12
+    100086: Spine22
+    400000: arm_finger_1a_left
+    400002: arm_finger_1a_right
+    400004: arm_finger_1b_left
+    400006: arm_finger_1b_right
+    400008: arm_finger_1c_left
+    400010: arm_finger_1c_right
+    400012: arm_finger_2a_left
+    400014: arm_finger_2a_right
+    400016: arm_finger_2b_left
+    400018: arm_finger_2b_right
+    400020: arm_finger_2c_left
+    400022: arm_finger_2c_right
+    400024: arm_wrist_left
+    400026: arm_wrist_right
+    400028: Armature
+    400030: //RootNode
+    400032: astronaut
+    400034: astronautvisir
+    400036: Head2
+    400038: Hips22
+    400040: LeftArm1
+    400042: LeftFoot2
+    400044: LeftForeArm1
+    400046: LeftHand1
+    400048: LeftHandProp1
+    400050: LeftLeg2
+    400052: LeftShoulder2
+    400054: LeftToeBase2
+    400056: LeftToeBase_END2
+    400058: LeftUpLeg2
+    400060: Neck2
+    400062: RightArm2
+    400064: RightFoot2
+    400066: RightForeArm1
+    400068: RightHand1
+    400070: RightHandProp1
+    400072: RightLeg2
+    400074: RightShoulder2
+    400076: RightToeBase2
+    400078: RightToeBase_END2
+    400080: RightUpLeg2
+    400082: RootAstro
+    400084: Spine12
+    400086: Spine22
+    4300000: astronautvisir
+    4300002: astronaut
+    9500000: //RootNode
+    13700000: astronaut
+    13700002: astronautvisir
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

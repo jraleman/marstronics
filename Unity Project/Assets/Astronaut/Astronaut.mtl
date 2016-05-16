@@ -1,0 +1,25 @@
+# 
+# 
+
+newmtl astronaut
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Astronaut_D.tga
+map_Bump Astronaut_N.tga
+map_Ka Astronaut_O.tga
+
+newmtl astronautvisir
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Astronaut_D.tga
+map_Bump Astronaut_N.tga
